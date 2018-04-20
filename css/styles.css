@@ -39,3 +39,6 @@
 .active{
   color: rgb(193, 1, 1);
 }
+.header{
+  background-image: url(../images/background.png);
+}
