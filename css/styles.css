@@ -1,8 +1,15 @@
+.logo{
+  width: 100%;
+  text-align: center;
+  height:150px;
+}
+
 .cbo {
   background-color:rgb(0, 0, 0);
   width: 50%;
   float:left;
   height:38px;
+  padding: 0px;
 }
 .email{
   padding-left: 10px;
@@ -32,6 +39,7 @@
   float:right;
   height:38px;
 }
+
 .nav li {
   list-style: none;
   float: right;
