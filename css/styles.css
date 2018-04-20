@@ -40,5 +40,20 @@
   color: rgb(193, 1, 1);
 }
 .header{
+  padding: 0px;
   background-image: url(../images/background.png);
+  height:390px;
+  text-align: center;
+  color: rgb(152, 150, 150);
+}
+.header h1{
+  font-size: 90px;
+  font-weight: lighter;
+}
+.header hr{
+  width: 90%;
+}
+.header h3{
+  font-weight: bolder;
+  font-size: 25px;
 }
