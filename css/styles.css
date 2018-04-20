@@ -93,3 +93,9 @@ height:250px;
   height: 250px;
   width: 400px;
 }
+.under{
+  width: 100%;
+}
+.under img{
+  text-align: center;
+}
