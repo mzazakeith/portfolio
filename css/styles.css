@@ -4,3 +4,17 @@
   float:left;
   height:38px;
 }
+.cbt {
+  background-color: rgb(0, 0, 0);
+  width: 50%;
+  float:right;
+  height:38px;
+  color: rgb(255, 255, 255);
+}
+.cons{
+  float: right;
+  padding-right: 20px;
+}
+.con{
+  padding-left: 15px;
+}
