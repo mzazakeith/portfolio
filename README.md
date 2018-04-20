@@ -6,7 +6,7 @@ My portfolio showcasing some of my recent projects and telling you a little abou
 ## Setup/Installation Requirements
 No setup is required for the site.
 ## Known Bugs
-The second page i.e the __Book on line__ page is still under construction
+The second page i.e the __Book online__ page is still under construction
 Media queries for the site is not yet functional please bear with us
 ## Technologies Used
 The languages used are HTML and CSS and the text editor used is ATOM.
