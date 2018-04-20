@@ -76,3 +76,20 @@ height:250px;
 .highlight{
   color: red;
 }
+.line{
+  text-align: center;
+  width: 95%;
+}
+.about{
+  text-align: center;
+}
+.about img{
+    height: 200px;
+}
+.cont{
+  float: left;
+}
+.cont img{
+  height: 350px;
+  width: 500px;
+}
